@@ -1,1 +1,2 @@
 # loltheme
+theme for smallhost.
